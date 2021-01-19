@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "ng-select"
+  "defaultProject": "ng-select",
+  "cli": {
+    "analytics": false
+  }
 }
